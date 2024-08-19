@@ -1,0 +1,11 @@
+C:\Users\Oliwier\source\repos\Discord_Message_Sender\Discord_Message_Sender\bin\Release\DiscordMessageSender.exe.config
+C:\Users\Oliwier\source\repos\Discord_Message_Sender\Discord_Message_Sender\bin\Release\DiscordMessageSender.exe
+C:\Users\Oliwier\source\repos\Discord_Message_Sender\Discord_Message_Sender\bin\Release\Newtonsoft.Json.dll
+C:\Users\Oliwier\source\repos\Discord_Message_Sender\Discord_Message_Sender\bin\Release\Newtonsoft.Json.xml
+C:\Users\Oliwier\source\repos\Discord_Message_Sender\Discord_Message_Sender\obj\Release\Discord_Message_Sender.csproj.AssemblyReference.cache
+C:\Users\Oliwier\source\repos\Discord_Message_Sender\Discord_Message_Sender\obj\Release\Discord_Message_Sender.Form1.resources
+C:\Users\Oliwier\source\repos\Discord_Message_Sender\Discord_Message_Sender\obj\Release\Discord_Message_Sender.Properties.Resources.resources
+C:\Users\Oliwier\source\repos\Discord_Message_Sender\Discord_Message_Sender\obj\Release\Discord_Message_Sender.csproj.GenerateResource.cache
+C:\Users\Oliwier\source\repos\Discord_Message_Sender\Discord_Message_Sender\obj\Release\Discord_Message_Sender.csproj.CoreCompileInputs.cache
+C:\Users\Oliwier\source\repos\Discord_Message_Sender\Discord_Message_Sender\obj\Release\Discord_Message_Sender.csproj.CopyComplete
+C:\Users\Oliwier\source\repos\Discord_Message_Sender\Discord_Message_Sender\obj\Release\DiscordMessageSender.exe

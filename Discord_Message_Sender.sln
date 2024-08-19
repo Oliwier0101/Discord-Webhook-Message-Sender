@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34729.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discord_Message_Sender", "Discord_Message_Sender\Discord_Message_Sender.csproj", "{FC8B5EDC-8623-4426-A4AA-ECEA8949196A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC8B5EDC-8623-4426-A4AA-ECEA8949196A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC8B5EDC-8623-4426-A4AA-ECEA8949196A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC8B5EDC-8623-4426-A4AA-ECEA8949196A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC8B5EDC-8623-4426-A4AA-ECEA8949196A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D75FCE1B-8188-4ED4-88BD-4D8AA13D1B35}
+	EndGlobalSection
+EndGlobal
